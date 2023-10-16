@@ -1,0 +1,20 @@
+{
+    "$schema": "https://raw.githubusercontent.com/bsmg/BSIPA-MetadataFileSchema/master/Schema.json",
+    "id": "WYSI",
+    "name": "WYSI",
+    "author": "iPixelGalaxy",
+    "version": "7.2.7",
+    "description": [
+        "When You See It!"
+    ],
+  "gameVersion": "1.24.1",
+    "icon": "WYSI.Icon.WYSI.png",
+    "dependsOn": {
+        "BSIPA": "^4.2.1",
+        "SongCore": "^3.9.5",
+        "BeatSaberMarkupLanguage": "^1.6.2",
+        "SiraUtil": "^3.0.0",
+        "BeatSaberPlaylistsLib": "^1.6.0",
+        "BeatSaverSharp": "^3.3.0"
+    }
+}
